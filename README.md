@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=40&pause=1000&color=CAF0F8&center=true&vCenter=true&width=435&lines=Namaste+%F0%9F%99%8F%F0%9F%8F%BC;This+is+Shubhanshu" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=40&pause=1000&color=CAF0F8&center=true&vCenter=true&width=465&lines=Namaste+%F0%9F%99%8F%F0%9F%8F%BC;Shubhanshu+this+side;Here+to+create%2C+code%2C+and+conquer; Turning+ideas+into+code." alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">Avidly learning and growing 🌱</h3>
@@ -14,7 +14,7 @@
 
 💬 Curious about **Python 🐍, React...** or anything else? Ask away [here](https://github.com/kshuxx/kshuxx/issues)! 📨
 
-🪄 **Fun fact:** The first computer bug was an actual bug, a moth found in a Harvard Mark II computer in 1947, which caused a malfunction. This is how the term "debugging" originated!
+🪄 **Fun fact:** The first computer bug 🐛 was an actual bug, a moth 🦋 found in a Harvard Mark II computer in 1947, which caused a malfunction. This is how the term "debugging" originated!
 
  </div>
  
