@@ -12,7 +12,7 @@
  
  🌱 I'm diving into **TypeScript, Docker,** and more right now! 🌊
 
-  ✨ Crafting digital magic 🪄, turning caffine ☕️ into clean, powerful code **</>**
+  ✨ Crafting digital magic 🪄, turning caffine ☕️ into clean & powerful code **</>**
 
 💬 Curious about **Python 🐍, React...** or anything else? Ask away [here](https://github.com/kshuxx/kshuxx/issues)! 📨
 
