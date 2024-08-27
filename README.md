@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=40&pause=1000&color=CAF0F8&center=true&vCenter=true&width=465&lines=Namaste+%F0%9F%99%8F%F0%9F%8F%BC;Shubhanshu+this+side;To+create%2C+code%2C+and+conquer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=40&pause=1000&color=CAF0F8&center=true&vCenter=true&width=465&lines=Hola+👋🏼;Shubhanshu+this+side;Crafting+digital+magic" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">Avidly learning and growing 🌱</h3>
@@ -8,9 +8,11 @@
 
 <div align="center">
  
- 🔥 I'm dedicating time to leveling up myself right now. 🔥
+ 🔥 I'm dedicating time to level up myself🔥
  
  🌱 I'm diving into **TypeScript, Docker,** and more right now! 🌊
+
+  ✨ Crafting digital magic 🪄, turning caffine ☕️ into clean, powerful code **</>**
 
 💬 Curious about **Python 🐍, React...** or anything else? Ask away [here](https://github.com/kshuxx/kshuxx/issues)! 📨
 
