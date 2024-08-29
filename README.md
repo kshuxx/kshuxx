@@ -7,8 +7,6 @@
 <br/>
 
 <div align="center">
-
- ❤ Yaayyyyy It's my birthday 🎂
  
  🔥 I'm dedicating time to level up myself🔥
  
