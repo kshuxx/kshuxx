@@ -18,8 +18,8 @@
  </div>
 
  <hr/>
-<h2 align="center" style="position: relative; left: -30px;">
-    <img src="resources/ace.gif" height="14%" width="14%"/>Code Arsenal<img src="resources/itachi.gif" height="6%" width="6%"/>
+<h2 align="center" style="position: relative; left: -35px;">
+    <img src="resources/ace.gif" height="15%" width="15%"/>Code Arsenal<img src="resources/itachi.gif" height="7%" width="7%"/>
 </h2>
 
 <div align="center">
