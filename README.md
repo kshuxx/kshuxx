@@ -31,7 +31,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🍎 Git Gourmet 🐍</h2>
+  <h2><img src="resources/snake.png"height="6%" width="6%"/> Git Gourmet 🍎</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kshuxx/kshuxx/output/github-contribution-grid-snake-dark.svg" />
   
@@ -40,7 +40,7 @@
 
 <hr/>
 <h2 align="center" style="position: relative; left: -20px;"><img src="resources/naruto_rage.gif" height="12%" width="12%" style="margin-bottom: -7px;" />
-Code 次元 (Jigen) <img src="resources/dbz_goku.gif" height="7%" width="7%"/></h2>
+Code 次元 (Jigen)<img src="resources/goku.gif" height="6%" width="6%"/></h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-shubhanshu-shuklas-projects.vercel.app/?user=kshuxx&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
