@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-<h3 style="position: relative; right: -20px;">Avidly learning and growing
+<h3 style="position: relative; right: -20px;"><img src="resources/sonic.gif"height="4%" width="4%"/> Avidly learning and growing
 <img src="resources/pikachu.gif"height="5%" width="5%"/></h3>
 🔥 I'm dedicating time to level up myself 🔥
 
