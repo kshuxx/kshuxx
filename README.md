@@ -18,14 +18,9 @@
  </div>
 
  <hr/>
-<h2 align="center" style="position: relative; left: -35px;">
-    <img src="resources/ace.gif" height="15%" width="15%"/>Code Arsenal<img src="resources/itachi.gif" height="7%" width="7%"/>
+<h2 align="center"">
+    <img src="resources/ace.gif" height="15%" width="15%"/>Languages-Frameworks & Tools<img src="resources/itachi.gif" height="7%" width="7%"/>
 </h2>
-
-<div align="center">
-
-**Languages, Frameworks & Tools**
-</div>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,ts,nodejs,react,tailwind" />
