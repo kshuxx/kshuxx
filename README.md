@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-<h3>Avidly learning and growing
+<h3 style="position: relative; right: -20px;">Avidly learning and growing
 <img src="resources/pikachu.gif"height="5%" width="5%"/></h3>
 🔥 I'm dedicating time to level up myself 🔥
 
@@ -18,8 +18,9 @@
  </div>
 
  <hr/>
-
-<h2 align="center">Code Arsenal<img src="resources/itachi.gif" height="5%" width="5%"/></h2>
+<h2 align="center" style="position: relative; left: -30px;">
+    <img src="resources/ace.gif" height="14%" width="14%"/>Code Arsenal<img src="resources/itachi.gif" height="6%" width="6%"/>
+</h2>
 
 <div align="center">
 
@@ -43,8 +44,8 @@
 </div>
 
 <hr/>
-<h2 align="center"><img src="resources/naruto_rage.gif" height="10%" width="10%" style="margin-bottom: -7px;" />
-Code Metrics <img src="resources/dbz_goku.gif" height="5%" width="5%"/></h2>
+<h2 align="center" style="position: relative; left: -20px;"><img src="resources/naruto_rage.gif" height="12%" width="12%" style="margin-bottom: -7px;" />
+Code 次元 (Jigen) <img src="resources/dbz_goku.gif" height="7%" width="7%"/></h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-shubhanshu-shuklas-projects.vercel.app/?user=kshuxx&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -52,9 +53,5 @@ Code Metrics <img src="resources/dbz_goku.gif" height="5%" width="5%"/></h2>
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-shubhanshu-shuklas-projects.vercel.app/api/top-langs/?username=kshuxx&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-<br/><br/>
-
-<hr/>
-
 <br/>
+<hr/>
