@@ -31,7 +31,7 @@
 <hr/>
 
 <div align="center">
-  <h2><img src="resources/snake.png"height="6%" width="6%"/> Git Gourmet 🍎</h2>
+  <h2>🍎 Git Gourmet 🍏</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kshuxx/kshuxx/output/github-contribution-grid-snake-dark.svg" />
   
