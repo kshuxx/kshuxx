@@ -10,15 +10,15 @@
         <img src="resources/pikachu.gif" height="5%" width="5%" />
     </h3>
 
-    🔥 I'm dedicating time to level up myself 🔥
+🔥 I'm dedicating time to level up myself 🔥
 
-    🌱 And diving into **TypeScript, Docker,** and more right now! 🌊
+🌱 And diving into **TypeScript, Docker,** and more right now! 🌊
 
-    ✨ Crafting digital magic 🪄, turning caffeine ☕️ into clean & powerful code </>
+✨ Crafting digital magic 🪄, turning caffeine ☕️ into clean & powerful code </>
 
-    🪄 Fun fact: The first computer bug 🐛 was an actual bug, a moth 🦋 found in a Harvard Mark II computer in 1947, which caused a malfunction. This is how the term "debugging" originated!
+🪄 Fun fact: The first computer bug 🐛 was an actual bug, a moth 🦋 found in a Harvard Mark II computer in 1947, which caused a malfunction. This is how the term "debugging" originated!
 
-   💬 Curious about **Python 🐍, React...** or anything else? Ask away [here](https://github.com/kshuxx/kshuxx/issues)! 📨
+💬 Curious about **Python 🐍, React...** or anything else? Ask away [here](https://github.com/kshuxx/kshuxx/issues)! 📨
 </div>
 
 <hr/>
