@@ -30,15 +30,11 @@
     <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,ts,nodejs,react,tailwind" />
     <img src="https://skillicons.dev/icons?i=vscode,git,github,nextjs,vercel,mongodb,docker,anaconda,mysql" /><br>
 </div>
-
-<br/>
-<hr/>
+<hr>
 
 <div align="center">
-    <h2>🍎 Git Gourmet 🍏</h2>
-    <br>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kshuxx/kshuxx/output/github-contribution-grid-snake-dark.svg" />
-    <br/>
+  <h2>🍎 Git Gourmet 🍏</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kshuxx/kshuxx/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <hr/>
@@ -56,4 +52,6 @@
 <br/>
 <hr/>
 
-[![](https://visitcount.itsvg.in/api?id=kshuxx&icon=7&color=5)](https://visitcount.itsvg.in)
+![trophy](https://github-profile-trophy.vercel.app/?username=kshuxx&theme=dracula&title=-Stars,-Issues,-Reviews)
+
+![visit count](https://visitcount.itsvg.in/api?id=kshuxx&icon=7&color=5)
